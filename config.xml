@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "org.coenraets.employeedirectory"
+        id          = "com.profoundlogic.TSP_POC"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.0.0">
  
-    <name>Employee Directory</name>
+    <name>TSP POC</name>
  
     <description>
-        A simple employee directory application
+        A proof of ocncept for The Screening Pros
     </description>
  
-    <author href="http://coenraets.org" email="ccoenraets@gmail.com">
-        Christophe Coenraets
+    <author href="http://profoundlogic.com" email="ghopwood@profoundlogic.com">
+        Glenn Hopwood
     </author>
  
-    <feature name="http://api.phonegap.com/1.0/camera"/>
-    <feature name="http://api.phonegap.com/1.0/contacts"/>
-    <feature name="http://api.phonegap.com/1.0/file"/>
-    <feature name="http://api.phonegap.com/1.0/geolocation"/>
-    <feature name="http://api.phonegap.com/1.0/media"/>
     <feature name="http://api.phonegap.com/1.0/network"/>
     <feature name="http://api.phonegap.com/1.0/notification"/>
  
